@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Adityakolluru
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning SQL,JAVA and Python
 - 📫 How to reach me - at LinkedIN - adityasaikolluru
 
