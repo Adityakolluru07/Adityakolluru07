@@ -4,12 +4,11 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Chicago
+* 🌍  I'm based in San Jose
 * 🖥️  See my portfolio at [MyPortfolio](https://react-portfolio-aditya.vercel.app/)
-* 📈  My Tableau Dasboards: [MyDashboards](https://public.tableau.com/app/profile/aditya.sai.kolluru/vizzes) 
 * ✉️  You can contact me at [adityakolluru24@gmail.com](mailto:adityakolluru24@gmail.com)
-* 🧠  I'm learning Big Data Tools like Hadoop and PySpark.
-* 🤝  I'm open to collaborating on interesting Data Engineering Projects.
+* 🧠  I'm learning GenAI and Machine Learning.
+* 🤝  I'm open to collaborating on interesting AI and Data Engineering Projects.
 * ⚡  Nothing changes if nothing changes.
 
 <a href="https://www.github.com/Adityakolluru07" target="_blank" rel="noreferrer"><img
